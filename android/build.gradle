@@ -33,6 +33,7 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+    namespace "com.manieredevoirshop.client_information_example"
 }
 
 dependencies {
