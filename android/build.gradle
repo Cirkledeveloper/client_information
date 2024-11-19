@@ -1,3 +1,5 @@
+package android
+
 group 'kent.chien.client_information'
 version '1.0-SNAPSHOT'
 
@@ -33,7 +35,7 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
-    namespace "kent.chien.client_information"
+    namespace "com.manieredevoirshop.client_information"
 }
 
 dependencies {
